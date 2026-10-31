@@ -1,16 +1,20 @@
-## Hi there 👋
+# Md. Raiyan Mahmud
 
-<!--
-**Raiyan2064/Raiyan2064** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+3rd-year EEE student at RUET, Bangladesh. Control systems and smart grid security.
 
-Here are some ideas to get you started:
+Portfolio: https://raiyan2064.github.io
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Focus
+- Control systems: classical control, state-space methods, optimization-based control
+- Smart grid security: PID-integrated AGC under false data injection attacks (ongoing research)
+- Embedded systems and IoT: Arduino, ESP32
+
+## Latest project
+IoT-Based Smart DC Microgrid (Capstone I): ESP32, INA219, priority load shedding, Telegram alerts.
+
+## Tools
+MATLAB, Simulink, Arduino, ESP32, Proteus
+
+## Contact
+- Email: md.raiyanmahmud64@gmail.com
+- LinkedIn: https://www.linkedin.com/in/md-raiyan-mahmud-4688aa356
