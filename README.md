@@ -1,6 +1,6 @@
 # Md. Raiyan Mahmud
 
-3rd-year EEE student at RUET, Bangladesh. Control systems and smart grid security.
+EEE undergraduate student at RUET, Bangladesh. Control systems and smart grid security.
 
 Portfolio: https://raiyan2064.github.io
 
